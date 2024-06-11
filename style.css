@@ -1,0 +1,35 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+/*.canvas{
+    width: 100%;
+    height: 100%;
+}*/
+.background{
+    padding-top: 5.5rem;
+    width: 100%;
+    height: 100%;   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/background.webp);
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-dark p{
+    color: #000;
+}
+p{
+    color: #EEE;
+}
+h1{
+    color: #EEE;
+}
+h3{
+    color: #EEE;
+}
+h5{
+    color: #EEE;
+}
+a{    
+    color: #F06060;
+}
